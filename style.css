@@ -1,0 +1,126 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+}
+
+.section-1 {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    color: white;
+    margin: 0;
+    padding-top: 50px;
+}
+
+.text-align {
+    text-align: center;
+    padding-top: 60px;
+
+}
+
+.button {
+    padding-top: 30px;
+}
+
+.donate-button {
+    padding: 10px;
+    background-color: brown;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+
+}
+
+.donate-taka {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+
+.box {
+    width: 7%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: darkgray;
+}
+
+#box {
+    width: 7%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 1px solid red;
+    background-color: darksalmon;
+}
+
+.plan {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+
+#food-for-family {
+    width: 30%;
+    padding: 20px;
+    text-align: left;
+    background-color: rgb(220, 222, 226);
+    border-radius: 5px;
+}
+
+#shelter-for-family {
+    width: 30%;
+    padding: 20px;
+    text-align: left;
+    background-color: rgb(125, 165, 247);
+    border-radius: 5px;
+}
+
+#education {
+    width: 30%;
+    padding: 20px;
+    text-align: left;
+    background-color: lightblue;
+    border-radius: 5px;
+
+}
+
+#bunas-1 {
+    width: 40%;
+    padding: 20px;
+    text-align: left;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+#bunas-second-part{
+    width: 40%;
+    padding: 20px;
+    text-align: left;
+    background-color: rgb(241, 248, 250);
+    border-radius: 5px;
+    
+}
+#update {
+    margin-left: 430px;
+    width: 40%;
+    padding: 15px;
+    background-color: rgb(240, 133, 62);
+    border-radius: 5px;
+}
+
+#footer {
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    
+
+}
+
+#footer-h1 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: orangered;
+}
